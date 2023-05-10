@@ -1,0 +1,78 @@
+.container {
+    padding: 0 0 0 0;
+}
+.info-box {
+    width: 100%;
+    margin: 20px 0;
+}
+
+.info-box_important_note {
+    font-weight: bold;
+}
+.standings-box{
+    display: flex;
+}
+.standings-box_title {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.standings_team_name{
+    color:black;
+    font-weight: bold;
+}
+
+.make-center {
+    text-align: center
+}
+.fixtures-box{
+    padding-top: 10px;
+}
+.fixtures-box_title {
+    color:black;
+    font-weight: bold;
+    text-align: center;
+}
+.fixtures-box_header {
+    font-weight: bold;
+    text-align: center;
+    background: skyblue;
+    color:white;
+}
+
+.weekly-simulate-button {
+    border: none;
+}
+
+.make-full-width {
+    width: 100%;
+}
+.simulation-box_title{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+}
+button.simulate-all-weeks {
+    background-color: skyblue;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+button.reset-all {
+    width: 300px;
+}
+.prediction-wrapper{
+    justify-content: center;
+}
+.prediction-box_title {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+.prediction-box_no_prediction_title{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
