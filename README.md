@@ -21,6 +21,7 @@ do these steps after cloning:
 > npm install
 > php artisan key:generate
 > php artisan migrate --seed
+
 ```
 
 # License
